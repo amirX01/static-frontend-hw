@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p>Basic Footer</p>
+      <p>Copyright 2026 - University Project</p>
     </footer>
   );
 }
