@@ -1,6 +1,6 @@
 # Static Frontend CI/CD Project for SUT SE Lab
 
-لینک استقرار پروژه (GitHub Pages): [لینک پروژه خود را اینجا بگذارید]
+لینک استقرار پروژه (GitHub Pages): https://amirx01.github.io/static-frontend-hw/
 
 ## گزارش پیاده‌سازی
 در این پروژه از ۳ شاخه (Branch) مجزا استفاده شد:
